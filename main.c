@@ -1,7 +1,7 @@
 // Compilation : prompt> gcc -Wall main.c board.o -o quarto 
 // Lancement : prompt> ./quarto
 
-//QUARTO : Interface - PLANTAIS Thomas | LESIEUR Romain TD3
+//QUARTO : Interface
 
 //Directives de préprocesseur
 #include <stdio.h>
