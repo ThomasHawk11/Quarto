@@ -1,4 +1,4 @@
-//QUARTO : Moteur - PLANTAIS Thomas | LESIEUR Romain TD3
+//QUARTO : Moteur
 
 //Directives de préprocesseur
 #include <stdio.h>
