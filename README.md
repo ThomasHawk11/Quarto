@@ -6,4 +6,4 @@ The code is partly in French but you have an English user manual in the director
 [FR]
 Ce projet consiste à reproduire le jeu du Quarto en language C.
 Vous pouvez lire la page Wikipedia pour comprendre les règles du jeu : https://fr.wikipedia.org/wiki/Quarto
-Le code est en partie en français mais vous avez un manuel d'utilisation en français qui se trouve dans le répertoire
+Le code est en partie en français mais vous avez un manuel d'utilisation en anglais qui se trouve dans le répertoire
