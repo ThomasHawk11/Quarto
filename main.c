@@ -1,6 +1,3 @@
-// Compilation : prompt> gcc -Wall main.c board.o -o quarto 
-// Lancement : prompt> ./quarto
-
 //QUARTO : Interface
 
 //Directives de préprocesseur
