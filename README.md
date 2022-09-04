@@ -7,5 +7,5 @@ We also had to create a user manual in English.
 
 -----------------------------------------
 
-board.c : Engine
-main.c : Interface
+- board.c : Engine
+- main.c : Interface
