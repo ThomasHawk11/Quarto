@@ -1,5 +1,4 @@
 # Quarto
-Quarto game
 
 Compilation :
 ```
