@@ -112,7 +112,7 @@ enum shape piece_shape(piece a_piece){
 
 }
 
-/*
+/* Version nulle
 bool has_winner(board game){
   int comparaison[4]={0,0,0,0};
    Chaque valeur du tableau représente le nombre de comparaison vraie pour chaque
