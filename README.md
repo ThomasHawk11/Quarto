@@ -2,7 +2,7 @@
 
 Compilation :
 ```
-prompt> gcc board.c bot.c main.c -o game
+prompt> gcc board.c main.c -o game
 ```
 
 Execution :
